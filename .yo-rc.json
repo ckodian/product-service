@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "au.twc.core.product"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "productsvc",
+    "packageName": "au.twc.core.product",
+    "packageFolder": "au/twc/core/product",
+    "serverPort": "8086",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "no",
+    "devDatabaseType": "no",
+    "prodDatabaseType": "no",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "consul",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjY5NzIzNWM0OTNhNGE5MWVlZTZjYWZhZWY3OGEwNWI0NTJlZTQ3Mzc1MTYwZjFiZmIyNDM5NDFjNWI5ZmNlMWU1YWI1ZDU4NDY0ZWU2N2Y4MWNjYjBkYzFlMjk5YjE0N2E0MzEwZjEyZDk2ODU3YTRhMDdmZmU2M2Y0ZWY3ZGM=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1609142023346,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}

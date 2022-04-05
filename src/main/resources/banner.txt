@@ -1,0 +1,10 @@
+
+  ${AnsiColor.BRIGHT_CYAN}  ████████╗██╗      ██╗  ███████╗
+  ${AnsiColor.BRIGHT_CYAN}  ╚══██╔══╝██║      ██║ ██╔═════╝
+  ${AnsiColor.BRIGHT_CYAN}     ██║   ██║ ██╗  ██║ ██║
+  ${AnsiColor.BRIGHT_CYAN}     ██║   ██║██╔██╗██║ ██║
+  ${AnsiColor.BRIGHT_CYAN}     ██║   ███╔═╝╚═███║ ╚███████╗
+  ${AnsiColor.BRIGHT_CYAN}     ╚═╝   ╚══╝    ╚══╝  ╚══════╝
+
+${AnsiColor.BRIGHT_BLUE}:: The Wishlist Company 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://www.twc.com ::${AnsiColor.DEFAULT}
